@@ -14,7 +14,14 @@ $(document).ready(function(){
         $('select').not(this).find('option[value="'+value+'"]').hide();
     });
  });
+
  
+ 
+
+
+
+
+
  //form validation while submit
  function validateform(){
      val1=$('#option1').val()
