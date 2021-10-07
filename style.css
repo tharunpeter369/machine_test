@@ -1,0 +1,39 @@
+.maindiv{
+    
+    justify-content: center;
+    min-height: 100%;
+    text-align:center;
+    display: flex;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgb(73, 67, 59);
+}
+
+.content{
+    
+    text-align:center;
+    justify-content: center;
+    display: flex;
+    margin-bottom: 20px;
+}
+
+.selectpicker{
+    margin-top:25rem;
+    width:100px;
+    height:50px;
+    border-radius:5%;
+    border: 1px solid
+
+}
+
+.dropdowns{
+    padding:10px
+}
+
+#submitbutton{
+    padding:10px;
+    width:15rem
+}
+
+
